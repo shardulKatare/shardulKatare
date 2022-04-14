@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shardulKatare
 - 👀 I’m interested in Technology, Science and Art
 - 🌱 I’m currently learning Data Engineering, Marketing Analytics and Data-visualization
-- 💞️ I’m looking to collaborate on working on Datapipelines, Handling massive datasets and data-analysis using Pythong, Airflow and SQL. 
+- 💞️ I’m looking to collaborate on projects related to Datapipeline(ETL), handling massive datasets and data-analysis using Python, Airflow and SQL. 
 - 📫 How to reach me shardulkatare@gmail.com
 
 <!---
